@@ -1,2 +1,2 @@
-# 11-BMI-Calculator-
-In this project i learned about how we can make a Web Application using ExpressJs and nodeJs.
+# 11-BMI-Calculator
+Made a Web Application using the Express framework in Node.js
